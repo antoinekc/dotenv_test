@@ -1,3 +1,4 @@
+
 require 'dotenv'# Appelle la gem Dotenv
 
 Dotenv.load # Ceci appelle le fichier .env (situé dans le même dossier que celui d'où tu exécute app.rb)
